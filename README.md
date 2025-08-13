@@ -4,6 +4,6 @@ Fred is built to navigate and compete with precision. Using PID motor control fo
 
 | Real-Life | CAD Model |
 |-----------|-----------|
-| ![Real1](images/real1.jpg) | ![CAD1](images/cad1.png) |
-| ![Real2](images/real2.jpg) | ![CAD2](images/cad2.png) |
-| ![Real3](images/real3.jpg) | ![CAD3](images/cad3.png) |
+| ![Real1](images/real1.png) | ![CAD1](images/cad1.png) |
+| ![Real2](images/real2.png) | ![CAD2](images/cad2.png) |
+| ![Real3](images/real3.png) | ![CAD3](images/cad3.png) |
