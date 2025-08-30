@@ -2,8 +2,10 @@
 
 Fred is built to navigate and compete with precision. Using PID motor control for smooth speed regulation, odometry for accurate positioning, and motion primitives for reliable trajectory execution, Fred generates and follows paths autonomously. Its robust motion control ensures it consistently achieves competition objectives.
 
-| CAD Model | Real-Life |
+| Real-Life | CAD Model |
 |-----------|-----------|
 | ![Real1](images/real1.png) | ![CAD1](images/cad1.png) |
 | ![Real2](images/real2.png) | ![CAD2](images/cad2.png) |
 | ![Real3](images/real3.png) | ![CAD3](images/cad3.png) |
+
+*You can consult the detailed specifications document [here](RCJRescueMaze2024RulesDraft.pdf).*
