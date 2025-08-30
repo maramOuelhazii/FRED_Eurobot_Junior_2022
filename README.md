@@ -8,4 +8,4 @@ Fred is built to navigate and compete with precision. Using PID motor control fo
 | ![Real2](images/real2.png) | ![CAD2](images/cad2.png) |
 | ![Real3](images/real3.png) | ![CAD3](images/cad3.png) |
 
-*You can consult the detailed specifications document [here](RCJRescueMaze2024RulesDraft.pdf).*
+*You can consult the detailed specifications document [here](https://www.coupederobotique.fr/wp-content/uploads/EurobotJunior2022_Rules-EN.pdf).*
